@@ -37,3 +37,4 @@ const jsBasic = {
 ---
 
 
+### Resolviendo ejercicios basicos de JS planteados por el gran Brais Moure en su curso de javaScript para principiantes.
