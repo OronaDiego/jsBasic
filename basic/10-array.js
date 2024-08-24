@@ -51,7 +51,7 @@ myArray = []
 
 // push y pop
 
-myArray.push("Diegi")
+myArray.push("Diego")
 myArray.push("Orona")
 myArray.push("decodev")
 myArray.push(33)

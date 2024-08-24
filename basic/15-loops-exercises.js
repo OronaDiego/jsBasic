@@ -85,8 +85,31 @@ for(let i = cadena1.length - 1; i >= 0; i--){
 }
 
 // 9. Usa un bucle para generar los primeros 10 números de la secuencia de Fibonacci
+console.log("***SecFibonacci****");
+//0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+let n1 = 0; 
+let n2 = 1; 
+let siguienteNumero;
 
+console.log(n1); 
+console.log(n2); 
 
+for (let i = 2; i < 10; i++) { // Comienza desde 2 porque los dos primeros ya están impresos
+    siguienteNumero = n1 + n2; // Calcula el siguiente número de la secuencia
+    console.log(siguienteNumero);
 
+    n1 = n2; // Actualiza n1 al valor de n2
+    n2 = siguienteNumero; // Actualiza n2 al siguiente número de la secuencia
+}
 
 // 10. Dado un array de números, usa un bucle para crear un nuevo array que contenga solo los números mayores a 10
+console.log("**bucle creador de nuevo array con numeros mayores a 10");
+
+let mayores = [];
+for(v of numbers){
+    console.log(v);
+    if(v >= 10){
+        mayores.push(v)
+    }
+}
+console.log(mayores);
