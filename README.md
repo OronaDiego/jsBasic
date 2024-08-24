@@ -21,10 +21,12 @@ const jsBasic = {
   conditionals: ["if,elseIF,else", "Opternario", "Swhitch"],
   dataStructures: ["Array", "Set", "Map"],
   loops: ["For", "forOF", "While", "DoWhile"],
-  strings: {
-                        coorganizer: "",
-                        speaker: "",
-                        mentor: ""
+  functions: {
+                        function1:"Clasica",
+                        function2: "Anonima",
+                        function3: "Flecha",
+                        function4: "Anidadas",
+                        function5: "De orden superior",
                       },
  challenge: "Resolver ejercicios basicos de JavaScript"
 }
