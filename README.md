@@ -1,3 +1,7 @@
+### Hello Word
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
+
 <h2> Holla, Soy Diego Orona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Dev Jr</em></p>
@@ -6,7 +10,7 @@
 
 
 
-### <img src="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg" width="50"> A little more about me...  
+### Un poco mas sobre el repo...  
 
 ```javascript
 const Diego = {
@@ -27,7 +31,7 @@ const Diego = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 ---
 
